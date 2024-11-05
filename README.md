@@ -1,7 +1,7 @@
 # Open Ended Power BI Challenge: Building a Power BI Dashboard for Car Listings Analysis
 
 ## Business Requirements
-The Australian car market is highly competitive. The management team of an automotive company seeks insights from their current inventory to optimize pricing strategies, improve inventory management, and understand market trends. As a BI analyst, your task is to analyze the dataset of car listings and build an interactive Power BI dashboard to support business decisions.
+The Australian car market is highly competitive. The management team of an automotive company seeks insights from their current inventory to optimize pricing strategies, improve inventory management, and understand market trends. As a BI analyst, my task is to analyze the dataset of car listings and build an interactive Power BI dashboard to support business decisions.
 
 ## Key Questions
 The team is particularly interested in understanding:
